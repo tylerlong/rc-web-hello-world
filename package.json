@@ -3,6 +3,9 @@
   "scripts": {
     "serve": "webpack serve"
   },
+  "dependencies": {
+    "@rc-ex/core": "^0.12.1"
+  },
   "devDependencies": {
     "@types/node": "^17.0.19",
     "gts": "^3.1.0",
